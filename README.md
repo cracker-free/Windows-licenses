@@ -2,10 +2,6 @@
 
 Welcome Everyone, Welcome to my new repsitory!!
 
-=================================
-=== ISO Links available below ===
-=================================
-
 This time we'll gonna CRACK all ( i mean it ) WINDOWS!
 
 We're gonna find the keys, and ISO's that are not available anymore with some CRACKS!
