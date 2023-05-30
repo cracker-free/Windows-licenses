@@ -24,10 +24,10 @@ Windows 98 (FE) ISO: http://gg.gg/windows-98-fe-iso
 
 Windows ME (2000): http://gg.gg/windows-2000-iso
 
-Windows XP (x64): http://gg.gg/windows-xp-iso  --- Windows XP (x32): http://gg.gg/windows-xp-32-iso
+Windows XP (x64): http://gg.gg/windows-xp-iso  - Windows XP (x32): http://gg.gg/windows-xp-32-iso
 
-Windows Vista (x64): http://gg.gg/windows-vista-iso --- Windows Vista (x32): http://gg.gg/windows-vista-iso
+Windows Vista (x64): http://gg.gg/windows-vista-iso - Windows Vista (x32): http://gg.gg/windows-vista-iso
 
-Windows 7 (x32): http://gg.gg/windows-7-32-iso --- Windows 7 (x64): http://gg.gg/windows-7-64-iso --- Windows 7 Super Compressed: http://gg.gg/windows-7-super-nano-iso
+Windows 7 (x32): http://gg.gg/windows-7-32-iso - Windows 7 (x64): http://gg.gg/windows-7-64-iso - Windows 7 Super Compressed: http://gg.gg/windows-7-super-nano-iso
 
 
