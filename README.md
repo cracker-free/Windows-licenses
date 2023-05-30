@@ -32,4 +32,14 @@ Windows 7 (x32): http://gg.gg/windows-7-32-iso --- Windows 7 (x64): http://gg.gg
 
 Windows 8 (x32): http://gg.gg/windows-8-32 --- Windows 8 (x64): http://gg.gg/windows-8-64-iso --- Windows 8.1 (x32): http://gg.gg/windows-8-1-iso --- Windows 8.1 (x64): http://gg.gg/windows-8-1-64-iso
 
-Windows 10 (1507 x64): http://gg.gg/windows-10-1507-iso --- Windows 10 (1607 x64): http://gg.gg/windows-10-1607-iso --- Windows 10 PE: http://gg.gg/windows-10-pe
+Windows 10 (1507 x64): http://gg.gg/windows-10-1507-iso --- Windows 10 (1607 x64): http://gg.gg/windows-10-1607-iso --- Windows 10 (PE): http://gg.gg/windows-10-pe
+
+Windows 11 (23H2): http://gg.gg/windows-11-23h2 --- Windows 11 (24H2): http://gg.gg/windows-11-24h2 --- Windows 11 (22H2): http://gg.gg/windows-11-22h2
+
+
+
+
+
+
+=-=-=-=-=-=-=-=-=-
+Thanks and as always ..... ENJOY
